@@ -1,5 +1,8 @@
 # Getting Started With Hashicorp Vault
 
+https://www.youtube.com/watch?v=b_2lo30g0RU
+
+
 Welcome to my github repo for getting started with Hashicorp Vault. 
 
 Here you can find all of the necessary templates and step by step instructions in order ot set up Hashicorp Vault if you are learning or wanting to try it out.
